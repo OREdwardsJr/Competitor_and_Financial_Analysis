@@ -68,7 +68,7 @@ This project was created to assist a company in gathering a more thorough and ac
 
 This project was created because I realized that the company could receive significant improvement in their financial analysis through the usage of Python. The company was utilizing Microsoft Excel to manage its databases. This unfortunately limited their ability to effectively track and manage their data.
 
-A 12-month restrospective investigation into various pricing and purchasing data is conducted. It analyzes data such as: purchasing cost, selling price, estimated retail pricing, and etc. This project was able to uncover that the company was missing target retail estimations by 35-65% on average, in respect to retail and sale prices.
+A investigation into 12-month's worth of various pricing and purchasing data was conducted. It analyzes data such as: purchasing cost, selling price, estimated retail pricing, and etc. This project was able to uncover that the company was missing target retail estimations by 35-65% on average, in respect to retail and sale prices.
 
 Through this project, we were able to reconstruct an algorithm that was able to be within 3-7% of estimated retail and sale prices.
 
