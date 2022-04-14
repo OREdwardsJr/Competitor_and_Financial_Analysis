@@ -11,7 +11,7 @@ This project was created to assist a company in gathering a more thorough and ac
 <!-- PROJECT LOGO 
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/OREdwardsJr/Competitor_and_Financial_Analysis">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
@@ -20,14 +20,14 @@ This project was created to assist a company in gathering a more thorough and ac
   <p align="center">
     Using Python and a variety of libraries (primarily: Openpyxl, Pandas, Requests), this project analyzes a wholesaling company's cost-of-goods by scraping and comparing it to public information about its products.
     <br />
-    <a href="https://github.com/github_username/Competitor_and_Financial_Analysis"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/OREdwardsJr/Competitor_and_Financial_Analysis"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/Competitor_and_Financial_Analysis">View Demo</a>
+    <a href="https://github.com/OREdwardsJr/Competitor_and_Financial_Analysis">View Demo</a>
     ·
-    <a href="https://github.com/github_username/Competitor_and_Financial_Analysis/issues">Report Bug</a>
+    <a href="https://github.com/OREdwardsJr/Competitor_and_Financial_Analysis/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/Competitor_and_Financial_Analysis/issues">Request Feature</a>
+    <a href="https://github.com/OREdwardsJr/Competitor_and_Financial_Analysis/issues">Request Feature</a>
   </p>
 </div>
 
@@ -66,7 +66,7 @@ This project was created to assist a company in gathering a more thorough and ac
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This prject was created because I realized that the company could receive significant improvement in their financial analysis through the usage of Python. The company was utilizing Microsoft Excel to manage its databases. This unfortunately limited their ability to effectively track and manage their data.
+This project was created because I realized that the company could receive significant improvement in their financial analysis through the usage of Python. The company was utilizing Microsoft Excel to manage its databases. This unfortunately limited their ability to effectively track and manage their data.
 
 A 12-month restrospective investigation into various pricing and purchasing data is conducted. It analyzes data such as: purchasing cost, selling price, estimated retail pricing, and etc. This project was able to uncover that the company was missing target retail estimations by 35-65% on average, in respect to retail and sale prices.
 
@@ -91,23 +91,29 @@ Through this project, we were able to reconstruct an algorithm that was able to 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This project has a structure that can be replicated if you are dealing with Excel databases and performing HTTP requests that do not require Javascript execution. In its current state, it will not execute outside of the expected use cases without tweaking.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+The code has had sensitive data, like company names and file paths, redacted. 
+
+If you'd like to use this project for whatever reason then please contact me to discuss tailoring the code to your specific needs.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Project Structure
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Section 0
+- [ ] Section 1
+- [ ] Section 2
+- [ ] Section 3
+- [ ] Section 4
+- [ ] Section 5
+- [ ] Section 6
+- [ ] Debug
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/OREdwardsJr/Competitor_and_Financial_Analysis/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -145,7 +151,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/OREdwardsJr/Competitor_and_Financial_Analysis](https://github.com/OREdwardsJr/Competitor_and_Financial_Analysis)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -164,16 +170,16 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/OREdwardsJr/Competitor_and_Financial_Analysis.svg?style=for-the-badge
+[contributors-url]: https://github.com/OREdwardsJr/Competitor_and_Financial_Analysis/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/OREdwardsJr/Competitor_and_Financial_Analysis.svg?style=for-the-badge
+[forks-url]: https://github.com/OREdwardsJr/Competitor_and_Financial_Analysis/network/members
+[stars-shield]: https://img.shields.io/github/stars/OREdwardsJr/Competitor_and_Financial_Analysis.svg?style=for-the-badge
+[stars-url]: https://github.com/OREdwardsJr/Competitor_and_Financial_Analysis/stargazers
+[issues-shield]: https://img.shields.io/github/issues/OREdwardsJr/Competitor_and_Financial_Analysis.svg?style=for-the-badge
+[issues-url]: https://github.com/OREdwardsJr/Competitor_and_Financial_Analysis/issues
+[license-shield]: https://img.shields.io/github/license/OREdwardsJr/Competitor_and_Financial_Analysis.svg?style=for-the-badge
+[license-url]: https://github.com/OREdwardsJr/Competitor_and_Financial_Analysis/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/orlando-edwards-jr/
 [product-screenshot]: images/screenshot.png
