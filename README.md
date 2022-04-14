@@ -64,7 +64,7 @@ This project was created to assist a company in gathering a more thorough and ac
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 This project was created because I realized that the company could receive significant improvement in their financial analysis through the usage of Python. The company was utilizing Microsoft Excel to manage its databases. This unfortunately limited their ability to effectively track and manage their data.
 
@@ -79,9 +79,9 @@ Through this project, we were able to reconstruct an algorithm that was able to 
 ### Built With
 
 * [Python](https://www.python.org/)
-* - [Openpyxl] (https://openpyxl.readthedocs.io/en/stable/)
-* - [Pandas] (https://pandas.pydata.org/)
-* - [Requests] (https://docs.python-requests.org/en/latest/)
+* - [Openpyxl](https://openpyxl.readthedocs.io/en/stable/)
+* - [Pandas](https://pandas.pydata.org/)
+* - [Requests](https://docs.python-requests.org/en/latest/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -104,14 +104,22 @@ If you'd like to use this project for whatever reason then please contact me to 
 <!-- ROADMAP -->
 ## Project Structure
 
-- [ ] Section 0
-- [ ] Section 1
-- [ ] Section 2
-- [ ] Section 3
-- [ ] Section 4
-- [ ] Section 5
-- [ ] Section 6
-- [ ] Debug
+* Section 0
+*  - Imports / Initial variables
+* Section 1
+*  - Parses the child company's database to analyze against
+* Section 2
+*  - Scrapes parent company to obtain selling prices
+* Section 3
+*  - Sanitizes data
+* Section 4
+*  - Performs calculations
+* Section 5
+*  - Sanitizes data
+* Section 6
+*  - Save to Excel
+* Debug
+*  - Demonstrates issues that I ran into and how I addressed them.
 
 See the [open issues](https://github.com/OREdwardsJr/Competitor_and_Financial_Analysis/issues) for a full list of proposed features (and known issues).
 
@@ -149,22 +157,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Orlando Edwards Jr. - [LinkedIn](https://linkedin.com/in/orlando-edwards-jr) - oredwardsjr@gmail.com
 
 Project Link: [https://github.com/OREdwardsJr/Competitor_and_Financial_Analysis](https://github.com/OREdwardsJr/Competitor_and_Financial_Analysis)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
