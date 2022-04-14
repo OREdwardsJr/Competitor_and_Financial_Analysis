@@ -1,55 +1,33 @@
-# Competitor_and_Financial_Analysis
-An analysis conducted on a wholesaler's cost of goods compared analyzed with a large purchaser's buying and selling points.
+# Competitor and Financial Analysis
+This project was created to assist a company in gathering a more thorough and accurate analysis of its cost and returns. While the code may be tweaked to specific use-cases, it is not intended to be used outside of its original intent. This repository is mostly being utilized as an area to display the project. However, contributions and/or recommendations are welcomed.
 
 
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO 
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Competitor and Financial Analysis</h3>
 
   <p align="center">
-    project_description
+    Using Python and a variety of libraries (primarily: Openpyxl, Pandas, Requests), this project analyzes a wholesaling company's cost-of-goods by scraping and comparing it to public information about its products.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/github_username/Competitor_and_Financial_Analysis"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/github_username/Competitor_and_Financial_Analysis">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/github_username/Competitor_and_Financial_Analysis/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/github_username/Competitor_and_Financial_Analysis/issues">Request Feature</a>
   </p>
 </div>
 
@@ -88,7 +66,11 @@ An analysis conducted on a wholesaler's cost of goods compared analyzed with a l
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+This prject was created because I realized that the company could receive significant improvement in their financial analysis through the usage of Python. The company was utilizing Microsoft Excel to manage its databases. This unfortunately limited their ability to effectively track and manage their data.
+
+A 12-month restrospective investigation into various pricing and purchasing data is conducted. It analyzes data such as: purchasing cost, selling price, estimated retail pricing, and etc. This project was able to uncover that the company was missing target retail estimations by 35-65% on average, in respect to retail and sale prices.
+
+Through this project, we were able to reconstruct an algorithm that was able to be within 3-7% of estimated retail and sale prices.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -96,50 +78,13 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Python](https://www.python.org/)
+* - [Openpyxl] (https://openpyxl.readthedocs.io/en/stable/)
+* - [Pandas] (https://pandas.pydata.org/)
+* - [Requests] (https://docs.python-requests.org/en/latest/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -230,5 +175,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/orlando-edwards-jr/
 [product-screenshot]: images/screenshot.png
